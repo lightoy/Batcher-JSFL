@@ -1,4 +1,4 @@
-JSFL For Adobe Flash
+JSFL
 ====
 
-Flash javascript is really helpful for batch procession.
+Flash javascript is  really  helpful.
