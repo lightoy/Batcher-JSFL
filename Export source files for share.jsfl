@@ -1,7 +1,7 @@
 ﻿/**
  * ...
  * @for export source files for share
- * @author www.loywong.com (2012-06)
+ * @author www.loywong.com
  *
  * 1.check the files of bitmap type
  * 2.set bitmap files' compression type to lossless,check allow smoothing
