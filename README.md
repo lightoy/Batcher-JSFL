@@ -1,4 +1,4 @@
 JSFL For Adobe Flash
 ====
 
-Flash javascript is really helpful for batch procession.
+JSFL scripts using javascript grammar is really helpful for flash ide's batch procession.
